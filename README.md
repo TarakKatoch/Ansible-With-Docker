@@ -277,9 +277,9 @@ cat > playbook.yml
 
 Then press `Ctrl + D` to save and exit
 
-The file are created in the `ansible-demo` folder, and we can check them in the file explorer by searching ansible-demo
-
 ![image](/assets/Screenshot%202025-04-25%20001635.png)
+
+The file are created in the `ansible-demo` folder, and we can check them in the file explorer by searching ansible-demo
 ![image](/assets/Screenshot%202025-04-25%20001714.png)
 
 ### 9. Run Ansible Playbook
