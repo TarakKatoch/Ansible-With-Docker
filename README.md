@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/assets/Ansible.png" alt="Ansible Logo" style="width: 200px; height: auto;">
+    <img src="/assets/1615449048633.png" alt="Logo" style="width: 200px; height: auto;">
 </div>
 
 # Ansible Demo with Docker
